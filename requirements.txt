@@ -1,0 +1,17 @@
+gTTS
+pyaudio
+playsound==1.2.2
+cx-Freeze
+deep-translator
+SpeechRecognition
+google-transliteration-api
+streamlit
+streamlit-option-menu
+PyPDF2
+reportlab
+fitz
+pymupdf
+openai-whisper
+googletrans==4.0.0-rc1
+moviepy
+ffmpeg-python
